@@ -13,7 +13,7 @@ A Telegram bot to collect clean audio samples.
    pip install aiogram aiosqlite bcrypt librosa numpy matplotlib python-dotenv requests soundfile
 
 2. Add bot token to .env:
-   TOKEN = 7863241607:AAFpeaOyJXLC2THHpHXrNcQEinMUFG5_Itc
+   ```TOKEN = 7863241607:AAFpeaOyJXLC2THHpHXrNcQEinMUFG5_Itc
 
 3. Start the bot:
-    python -m collection
+    ```python -m collection
